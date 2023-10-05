@@ -1,0 +1,16 @@
+[user]
+    name = djsf
+    email = 30304653+dj-sf@users.noreply.github.com
+[core]
+    editor = vim
+    autocrlf = input
+[color]
+    ui = true
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --all
+[push]
+    default = current
